@@ -1,0 +1,1 @@
+this is a new chapter that should be visible only on the master branch.
